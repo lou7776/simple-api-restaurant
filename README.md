@@ -3,6 +3,7 @@
 A simple frontend web application that helps users discover wine festivals by selecting a country.
 
 The project was created with restaurant managers and wine-focused businesses in mind, making it easier to find wine festivals and events that could potentially provide opportunities for promotions, partnerships, or special events.
+
 <img width="767" height="398" alt="Screenshot 2026-10-08 at 9 10 27 AM" src="https://github.com/user-attachments/assets/37768423-2258-4188-80cb-84c4a9268a15" />
 
 ## Features
