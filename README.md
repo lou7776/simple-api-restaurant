@@ -8,6 +8,8 @@ The goal of this project is to take information from an external API and turn it
 
 The project was created with restaurant managers and wine-focused businesses in mind, making it easier to find wine festivals and events that could potentially provide opportunities for promotions, partnerships, or special events.
 
+<img width="767" height="398" alt="Screenshot 2026-10-08 at 9 10 27 AM" src="https://github.com/user-attachments/assets/4428e86d-d0a4-4b7a-867e-dcea9457e947" />
+
 ## Features
 
 - Select a country from a dropdown menu
