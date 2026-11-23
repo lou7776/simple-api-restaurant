@@ -10,7 +10,7 @@ The project was created with restaurant managers and wine-focused businesses in 
 
 <img width="767" height="398" alt="Screenshot 2026-10-08 at 9 10 27 AM" src="https://github.com/user-attachments/assets/4428e86d-d0a4-4b7a-867e-dcea9457e947" />
 
-**Live Site**: 
+**Live Site**: https://lou7776.github.io/simple-api-restaurant/
 
 ## Features
 
